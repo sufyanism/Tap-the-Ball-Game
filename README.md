@@ -18,7 +18,7 @@ Follow these steps to set up and run the app on your system.
    flutter create tap_the_ball_game
    ```
 
-3. **Replace the lib folder** with the code provided in this tutorial.
+3. Replace the **lib folder** with the code provided in this tutorial.
 
 4. **Run the app**
    ```bash
@@ -62,3 +62,4 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  </br>
 
 **Thank you for visiting!** 
+
