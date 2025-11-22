@@ -37,6 +37,8 @@ tap_the_ball_game/
 └── README.md                    → Project documentation
 ```
 
+## Demo
+https://github.com/user-attachments/assets/63fa8a6e-9d95-4b3b-9b09-6499dd526e04
 
 ## 🧠 How It Works
 The app uses Flutter’s `setState()` and `Timer` to update the ball’s position randomly at each tap. The user earns 1 point per successful tap. The timer runs for 30 seconds, and at the end, a dialog shows the total score with an option to play again.
@@ -62,4 +64,5 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  </br>
 
 **Thank you for visiting!** 
+
 
