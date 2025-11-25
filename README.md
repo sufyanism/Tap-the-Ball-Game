@@ -1,4 +1,4 @@
-## 🕹️ Tap The Ball Game – Flutter README
+## 🕹️ Tap The Ball Game
 This is a simple and fun Flutter game where players must tap a moving ball as many times as possible before the timer runs out. It’s a great beginner project to learn about Flutter widgets, timers, gestures, and basic game logic.
 
 ## 📱 Features
@@ -64,5 +64,6 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  </br>
 
 **Thank you for visiting!** 
+
 
 
